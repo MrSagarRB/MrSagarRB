@@ -5,7 +5,7 @@
 - 📫 Contact No 8805189617 Email sagar.html5@gmail.com
 
 
-**My ProJects- 
+**My Projects- 
 
 Whats App Sender   https://mrsagarrb.github.io/whatsapp-Sender/
 
