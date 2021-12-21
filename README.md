@@ -7,23 +7,27 @@
 
 **My Projects- 
 
-Whats App Sender   https://mrsagarrb.github.io/whatsapp-Sender/
+Whats App Sender-
+ https://mrsagarrb.github.io/whatsapp-Sender/
 
-Agency Website 	   https://mrsagarrb.github.io/Agency-Website-/
+Daivat Agency-
+http://sagar.infinityfreeapp.com/
 
-Drop Down Menu 	   https://mrsagarrb.github.io/Drop-Down-Menu/
+ Drop Down Menu- 
+https://mrsagarrb.github.io/Drop-Down-Menu/
 
-Mobile Shope  	   https://mrsagarrb.github.io/Mobile-Shope/
+Mobile Shoppe-
+ https://mrsagarrb.github.io/Mobile-Shope/
 
-Business Website   https://mrsagarrb.github.io/Business-Website/
+Business Website -
+https://mrsagarrb.github.io/Business-Website/
 
-Portfolio          https://mrsagarrb.github.io/portfolio/
+Smart Kirana Bazar 
+https://mrsagarrb.github.io/Smart-kirana-Bazar/
 
-Play Station       https://mrsagarrb.github.io/Play-Station-Site-/ 
+Play Station
+https://mrsagarrb.github.io/Play-Station/
 
-
-
-https://github.com/MrSagarRB
 
 
 
