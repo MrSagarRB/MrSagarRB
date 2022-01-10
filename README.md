@@ -19,7 +19,7 @@ https://mrsagarrb.github.io/Drop-Down-Menu/
 Mobile Shoppe-(Only For Desktop)
  https://mrsagarrb.github.io/Mobile-Shope/
 
-Business Website -(Responsive)
+Business Website -(Desktops Version)
 https://mrsagarrb.github.io/Business-Website/
 
 Smart Kirana Bazar (Responsive)
