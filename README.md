@@ -7,25 +7,25 @@
 
 **My Projects- 
 
-Whats App Sender-
+Whats App Sender-(Mobile version)
  https://mrsagarrb.github.io/whatsapp-Sender/
 
-Daivat Agency-
+Daivat Agency-(Responsive)
 http://sagar.infinityfreeapp.com/
 
- Drop Down Menu- 
+ Drop Down Menu- (Only For Desktop)
 https://mrsagarrb.github.io/Drop-Down-Menu/
 
-Mobile Shoppe-
+Mobile Shoppe-(Only For Desktop)
  https://mrsagarrb.github.io/Mobile-Shope/
 
-Business Website -
+Business Website -(Responsive)
 https://mrsagarrb.github.io/Business-Website/
 
-Smart Kirana Bazar 
+Smart Kirana Bazar (Responsive)
 https://mrsagarrb.github.io/Smart-kirana-Bazar/
 
-Play Station
+Play Station (Only For Desktop)
 https://mrsagarrb.github.io/Play-Station/
 
 
