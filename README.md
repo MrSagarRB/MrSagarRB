@@ -2,9 +2,9 @@
 
 
   
-  <div>
+
   ![animation](https://user-images.githubusercontent.com/87903581/150827873-e86751dd-f21b-484a-8965-579ed9d9b29e.gif)
-</div>
+
   
   
 -   👋 Hi, I’m Sagar
