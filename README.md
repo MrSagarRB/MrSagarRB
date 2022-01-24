@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Sagar
+<h1 align="center">HI I'm Sagar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
+  
+  
+  
+  
+  
+-   👋 Hi, I’m Sagar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js (Java Scripts)
 - 💞️ I’m looking to collaborate on Full Stack development
