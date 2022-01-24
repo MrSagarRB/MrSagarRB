@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js (Java Scripts)
-- 💞️ I’m looking to collaborate on Back End development
+- 💞️ I’m looking to collaborate on Full Stack development
 - 📫 Contact No 8805189617 Email sagar.html5@gmail.com
 
 
