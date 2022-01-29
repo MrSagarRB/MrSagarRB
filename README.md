@@ -45,7 +45,7 @@
 Whats App Sender-(Mobile version)
  https://mrsagarrb.github.io/whatsapp-Sender/
 
-Daivat Agency-(Responsive)
+Daivat Agency-(Responsive Design)
 http://sagar.infinityfreeapp.com/
 
 
