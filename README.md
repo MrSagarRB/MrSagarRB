@@ -3,7 +3,7 @@
 
   
 
-  ![animation](https://user-images.githubusercontent.com/87903581/150827873-e86751dd-f21b-484a-8965-579ed9d9b29e.gif)
+![200w](https://user-images.githubusercontent.com/87903581/151706267-33d2ddcf-9ead-4aa0-844d-b7b3ae49eaad.gif)
 
   
   
@@ -101,3 +101,5 @@ Database App -   https://stupefied-mayer-56282d.netlify.app/
 MrSagarRB/MrSagarRB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+  ![animation](https://user-images.githubusercontent.com/87903581/150827873-e86751dd-f21b-484a-8965-579ed9d9b29e.gif)
