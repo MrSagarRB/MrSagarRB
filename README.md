@@ -69,7 +69,7 @@ Database App -   https://stupefied-mayer-56282d.netlify.app/
 
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=MrSagarRB&show_icons=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=MrSagarRB&show_icons=true&theme=react" width="70%" align="centre" >
 
 
 
