@@ -100,6 +100,23 @@ Database App -   https://stupefied-mayer-56282d.netlify.app/
 <!---
 MrSagarRB/MrSagarRB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
+
+
+
+
+
+
+[Sagar Ravindra Borude CV Updated.pdf](https://github.com/MrSagarRB/MrSagarRB/files/7970078/Sagar.Ravindra.Borude.CV.Updated.pdf)
+
+
+
+
+
+
+
+
+
 
   ![animation](https://user-images.githubusercontent.com/87903581/150827873-e86751dd-f21b-484a-8965-579ed9d9b29e.gif)
