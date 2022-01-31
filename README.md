@@ -49,7 +49,7 @@ Download My CV-
 
 **My Projects - 
 
-Amazon Clone Using React JS  (curruntly working on this project)
+Amazon Clone Using React JS  Desktop Version (curruntly working on this project)
 https://react-amazon-clone-mcpgeo3hx-mrsagarrb.vercel.app/
 
 
