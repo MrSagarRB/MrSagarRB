@@ -6,12 +6,12 @@
 ![200w](https://user-images.githubusercontent.com/87903581/151706267-33d2ddcf-9ead-4aa0-844d-b7b3ae49eaad.gif)
 
   
-  
+  <h2>
 -   👋 Hi, I’m Sagar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js (Java Scripts)
 - 💞️ I’m looking to collaborate on Full Stack development
-- 📫 Contact No 8805189617 Email: sagar.html5@gmail.com
+- 📫 Contact No 8805189617 Email: sagar.html5@gmail.com <h2>
 
 
 <h1>Download My CV- </h1>
@@ -20,7 +20,7 @@
 
 
 
-
+<hr>
 
 ### Languages and Tools:
 .[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />].
@@ -40,9 +40,8 @@
 
 
 
+<hr>
 
-
----
 
 
 
@@ -86,7 +85,7 @@ React Projects:
 
 WHETHER APP   https://elastic-borg-66f553.netlify.app/
 
-Database App -   https://stupefied-mayer-56282d.netlify.app/
+Database App -   https://stupefied-mayer-56282d.netlify.app/  </h3>
 
 
 
