@@ -3,7 +3,7 @@
 
   
 
-![200w](https://user-images.githubusercontent.com/87903581/151706267-33d2ddcf-9ead-4aa0-844d-b7b3ae49eaad.gif)
+![200w]<img src="https://user-images.githubusercontent.com/87903581/151706267-33d2ddcf-9ead-4aa0-844d-b7b3ae49eaad.gif">)
 
   
   <h4>
