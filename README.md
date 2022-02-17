@@ -19,6 +19,9 @@
 
 
 
+[My Activities Graph 📉]
+(https://activity-graph.herokuapp.com/graph?username=MrSagarRB)
+
 
 <hr>
 
