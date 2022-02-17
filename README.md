@@ -134,7 +134,7 @@ You can click the Preview link to take a look at your changes.
 
   ![animation](https://user-images.githubusercontent.com/87903581/150827873-e86751dd-f21b-484a-8965-579ed9d9b29e.gif)
   
-  
+  ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
   
   
   last  update 17/02/2022
