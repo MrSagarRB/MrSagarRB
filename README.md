@@ -87,6 +87,9 @@ https://mrsagarrb.github.io/Play-Station/
 
 
 React Projects: 
+  
+  
+  Pharma One  -   https://pharma-one.vercel.app/
 
 WHETHER APP   https://elastic-borg-66f553.netlify.app/
 
