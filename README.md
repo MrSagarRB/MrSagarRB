@@ -98,7 +98,7 @@ Database App -   https://stupefied-mayer-56282d.netlify.app/  </h3>
 
 
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/MrSagarRB/MrSagarRB/master/soc/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/MrSagarRB/snake.svg)
 
   
   
