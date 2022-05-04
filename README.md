@@ -63,8 +63,7 @@ https://react-amazon-clone-mcpgeo3hx-mrsagarrb.vercel.app/
 Whats App Sender-(Mobile version)
  https://mrsagarrb.github.io/whatsapp-Sender/
 
-Daivat Agency-(Responsive Design)
-http://sagar.infinityfreeapp.com/
+
 
 
 Smart Kirana Bazar (Responsive)
@@ -77,7 +76,7 @@ https://mrsagarrb.github.io/Play-Station/
 React Projects: 
   
   
-  Pharma One  -   https://pharma-one.vercel.app/
+Pharma One  -   https://pharma-one.vercel.app/
 
 WHETHER APP   https://elastic-borg-66f553.netlify.app/
 
