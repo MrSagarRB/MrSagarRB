@@ -85,8 +85,6 @@ Database App -   https://stupefied-mayer-56282d.netlify.app/  </h3>
 
 
 
-![Watch my contribution graph being eaten by a Snake!](https://github.com/MrSagarRB/MrSagarRB/blob/output/github-contribution-grid-snake.gif)
-
   
   
   
