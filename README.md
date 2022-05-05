@@ -59,48 +59,38 @@
 **My Projects - 
 <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/>
 
-  <h3> <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>
+  <h3>  
+    * React Projects: 
+    
+     <a href="https://pharma-one.vercel.app/">  Pharma One</a>
+     <a href= "https://elastic-borg-66f553.netlify.app/">  WHETHER APP</a>
+    
+    
+    
+    *Basic Project Using Html Css
+ <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>    
+ <a href="https://react-amazon-clone-mcpgeo3hx-mrsagarrb.vercel.app/"> Amazon Clone Using React JS  Desktop Version (curruntly working on this project) </a>
+ <a href="https://react-linked-in-clone.vercel.app/">  Linkdin</a>
+ <a href="https://mrsagarrb.github.io/whatsapp-Sender/">  Whats App Sender-(Mobile version)</a>
+ <a href="https://mrsagarrb.github.io/Smart-kirana-Bazar/">  Smart Kirana Bazar (Responsive)</a>
+ <a href="https://mrsagarrb.github.io/Play-Station/">  Play Station (Only For Desktop)</a>
+  
+ 
 
 
 
 
 
-Amazon Clone Using React JS  Desktop Version (curruntly working on this project)
-https://react-amazon-clone-mcpgeo3hx-mrsagarrb.vercel.app/
+
+
+
+
+
+
 
   
-  Linkdin https://react-linked-in-clone.vercel.app/
-
-
-
-
-
-
-
-
-
-
-Whats App Sender-(Mobile version)
- https://mrsagarrb.github.io/whatsapp-Sender/
-
-
-
-
-Smart Kirana Bazar (Responsive)
-https://mrsagarrb.github.io/Smart-kirana-Bazar/
-
-Play Station (Only For Desktop)
-https://mrsagarrb.github.io/Play-Station/
-
-
-React Projects: 
   
   
-Pharma One  -   https://pharma-one.vercel.app/
-
-WHETHER APP   https://elastic-borg-66f553.netlify.app/
-
-Database App -   https://stupefied-mayer-56282d.netlify.app/  </h3>
 
 
 
