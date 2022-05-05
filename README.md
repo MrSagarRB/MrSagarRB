@@ -62,7 +62,9 @@
   <h3>  
     * React Projects: 
     
-     <a href="https://pharma-one.vercel.app/">  Pharma One</a>
+<p>      <a href="https://pharma-one.vercel.app/">  Pharma One</a> </p>
+    
+    
      <a href= "https://elastic-borg-66f553.netlify.app/">  WHETHER APP</a>
     
     
