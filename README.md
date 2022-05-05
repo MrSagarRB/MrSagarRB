@@ -14,7 +14,7 @@
 - 📫 Contact No 8805189617 Email: sagar.html5@gmail.com <h4>
 
 
-<h1>Download My CV- </h1>
+<h1><a href="https://github.com/MrSagarRB/MrSagarRB/files/7970078/Sagar.Ravindra.Borude.CV.Updated.pdf"> Download My CV- </a></h1>
 [Sagar Ravindra Borude CV Updated.pdf](https://github.com/MrSagarRB/MrSagarRB/files/7970078/Sagar.Ravindra.Borude.CV.Updated.pdf)
 
 
