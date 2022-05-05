@@ -63,21 +63,29 @@
     * React Projects: 
     
 <ul>
+<li><a href="https://pharma-one.vercel.app/">  Pharma One</a>  </li>
+ <li> <a href= "https://elastic-borg-66f553.netlify.app/">  WHETHER APP</a>   </li>
+ <h3> *Basic Project Using Html Css </h3>
 <li>
-<a href="https://pharma-one.vercel.app/">  Pharma One</a> 
- </li>
-    
-     <a href= "https://elastic-borg-66f553.netlify.app/">  WHETHER APP</a>
-    
-    
-    
-    *Basic Project Using Html Css
- <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>    
+ <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>  
+<li>
  <a href="https://react-amazon-clone-mcpgeo3hx-mrsagarrb.vercel.app/"> Amazon Clone Using React JS  Desktop Version (curruntly working on this project) </a>
+</li>
+
+<li>
  <a href="https://react-linked-in-clone.vercel.app/">  Linkdin</a>
+</li>
+<li>
  <a href="https://mrsagarrb.github.io/whatsapp-Sender/">  Whats App Sender-(Mobile version)</a>
+</li>
+<li>
  <a href="https://mrsagarrb.github.io/Smart-kirana-Bazar/">  Smart Kirana Bazar (Responsive)</a>
+</li>
+<li>
  <a href="https://mrsagarrb.github.io/Play-Station/">  Play Station (Only For Desktop)</a>
+</li>
+
+</ul>
   
  
 
