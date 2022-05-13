@@ -15,8 +15,6 @@
 
 
 <h1><a href="https://github.com/MrSagarRB/MrSagarRB/files/7970078/Sagar.Ravindra.Borude.CV.Updated.pdf"> Download My CV- </a></h1>
-[Sagar Ravindra Borude CV Updated.pdf](https://github.com/MrSagarRB/MrSagarRB/files/7970078/Sagar.Ravindra.Borude.CV.Updated.pdf)
-
 
 
 [My Activities Graph 📉]
