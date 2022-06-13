@@ -1,4 +1,4 @@
-<h1 align="center">HI I'm Sagar  </h1>    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> 
+<!-- <h1 align="center">HI I'm Sagar  </h1>    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">  -->
 
 
   
