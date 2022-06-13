@@ -1,9 +1,9 @@
-<h1 align="center">HI I'm Sagar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>    
+<h1 align="center">HI I'm Sagar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">  </h1>    
 
 
   
 
-<!-- <img src="https://user-images.githubusercontent.com/87903581/151706267-33d2ddcf-9ead-4aa0-844d-b7b3ae49eaad.gif">) -->
+<img src="https://user-images.githubusercontent.com/87903581/151706267-33d2ddcf-9ead-4aa0-844d-b7b3ae49eaad.gif">)
 
   
   <h4>
