@@ -69,9 +69,7 @@
 
 
 
-<li>
- <a href="https://react-linked-in-clone.vercel.app/">  Linkdin</a>
-</li>
+
 
 
 <h3> *Basic Project Using Html Css </h3>
