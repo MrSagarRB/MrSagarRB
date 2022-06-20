@@ -64,7 +64,7 @@
   <li><a href="https://sales-dashboard-rho.vercel.app"> Sales Dashboard (React) </li>
  <li> <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
    <li> <a href="http://react-crypto-dashboard-sigma.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
-  <li> <a href="https://react-cryptfest.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
+  <li> <a href="https://react-cryptfest.vercel.app/">  Crypto Dashboard </a>  </li>
   
   
   
