@@ -17,8 +17,6 @@
 <h1><a href="https://github.com/MrSagarRB/MrSagarRB/files/7970078/Sagar.Ravindra.Borude.CV.Updated.pdf"> Download My CV- </a></h1>
 
 
-[My Activities Graph 📉]
-<img src="https://activity-graph.herokuapp.com/graph?username=MrSagarRB">
 
 
 <hr>
@@ -65,7 +63,9 @@
  <li> <a href="https://zomato-by-sagar.vercel.app/"> Zomato (React) </a> </li>
 
   <li><a href="https://sales-dashboard-rho.vercel.app"> Sales Dashboard (React) </li>
- <li> <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>  
+ <li> <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
+   <li> <a href="http://react-crypto-dashboard-sigma.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
+
 
 
 
