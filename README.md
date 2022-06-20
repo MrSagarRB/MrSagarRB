@@ -63,8 +63,8 @@
  <li> <a href="https://zomato-by-sagar.vercel.app/"> Zomato (React) </a> </li>
   <li><a href="https://sales-dashboard-rho.vercel.app"> Sales Dashboard (React) </li>
  <li> <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
-   <li> <a href="http://react-crypto-dashboard-sigma.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
-  <li> <a href="https://react-cryptfest.vercel.app/">  Crypto Dashboard </a>  </li>
+   <li> <a href="http://react-crypto-dashboard-sigma.vercel.app/"> Coin Api (Crypto) React Js </a>  </li>
+  <li> <a href="https://react-cryptfest.vercel.app/">  CryptoFest Dashboard </a>  </li>
   
   
   
