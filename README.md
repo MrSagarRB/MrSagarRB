@@ -112,7 +112,7 @@
   
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=MrSagarRB&show_icons=true&theme=react" width="100%" align="centre" >
+<img  src="https://github-readme-stats.vercel.app/api?username=MrSagarRB&show_icons=true&theme=react" width="50%" align="centre" >
 
 
 
