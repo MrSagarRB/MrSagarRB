@@ -65,9 +65,9 @@
  <li> <a href="https://zomato-by-sagar.vercel.app/"> Zomato (React) </a> </li>
 
   <li><a href="https://sales-dashboard-rho.vercel.app"> Sales Dashboard (React) </li>
- <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>  
+ <li> <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>  
 
-  </li>
+
 
 <li>
  <a href="https://react-linked-in-clone.vercel.app/">  Linkdin</a>
