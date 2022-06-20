@@ -61,14 +61,13 @@
     * React Projects: 
     
 <ul>
-<li><a href="https://pharma-one.vercel.app/">  Pharma One</a>  </li>
- <li> <a href="https://zomato-by-sagar.vercel.app/"> Zomato </a> </li>
-<li> <a href= "https://elastic-borg-66f553.netlify.app/">  WHETHER APP</a>   </li>
- <li>
+<li><a href="https://pharma-one.vercel.app/">  Pharma One (React)</a>  </li>
+ <li> <a href="https://zomato-by-sagar.vercel.app/"> Zomato (React) </a> </li>
+
+  <li><a href="https://sales-dashboard-rho.vercel.app"> Sales Dashboard (React) </li>
  <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>  
-<li>
- <a href="https://react-amazon-clone-mcpgeo3hx-mrsagarrb.vercel.app/"> Amazon Clone Using React JS  Desktop Version (curruntly working on this project) </a>
-</li>
+
+  </li>
 
 <li>
  <a href="https://react-linked-in-clone.vercel.app/">  Linkdin</a>
