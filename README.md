@@ -15,7 +15,7 @@
 - 📫 Contact No 8805189617 Email: sagar.html5@gmail.com <h4>
 
 
-  <h1>  <a href="[https://github.com/MrSagarRB/MrSagarRB/files/10774246/SagarBorude.Resume.v3.3.6.pdf](https://drive.google.com/file/d/1k1btapie9yZE5NfkkCWAloxpETuVZCeO/view?usp=sharing)"> Download My CV </a> </h1>
+  <h1>  <a href="https://drive.google.com/file/d/1k1btapie9yZE5NfkkCWAloxpETuVZCeO/view?usp=sharing"> Download My CV </a> </h1>
 
 
 
