@@ -16,7 +16,7 @@
 ## What I'm up to
 
 - 🚶 Just shipped **[StepMates](https://github.com/MrSagarRB/StepMates)**, an Android app that ranks your friends' and family's steps live. [Try it](https://stepmates.vercel.app).
-- 🍎 Publishing small, private, native Mac apps in **[AppStore](https://github.com/MrSagarRB/AppStore)**.
+- 🍎 Publishing small, private, native Mac apps on the **[AppStore](https://mrsagarrb.github.io/AppStore/)** site ([source](https://github.com/MrSagarRB/AppStore)).
 - ⚙️ Day to day: Next.js, React, Vue and Nuxt on the front, Node.js and Supabase behind them.
 - 📫 Open to interesting projects. Write to me at **sagar.html5@gmail.com**.
 
@@ -34,10 +34,9 @@
 | Project | What it is | Built with |
 |---|---|---|
 | **[StepMates](https://github.com/MrSagarRB/StepMates)** | A live step leaderboard for friends and family. Private teams, realtime ranking, and an Android TV view for the living room. [Website](https://stepmates.vercel.app) / [Download APK](https://github.com/MrSagarRB/StepMates/releases/latest) | Java, Android, Supabase (Postgres, Auth, Realtime) |
-| **[AppStore](https://github.com/MrSagarRB/AppStore)** | Lightweight native macOS apps: **ClipMind** (smart clipboard), **MacPulse** (system monitor in the menu bar) and **QuickNote** (instant floating notes). [Website](https://mrsagarrb.github.io/AppStore/) | Swift, SwiftUI |
+| **[AppStore](https://github.com/MrSagarRB/AppStore)** | Lightweight native macOS apps, each with its own landing page: **[ClipMind](https://mrsagarrb.github.io/AppStore/clipmind/)** (smart clipboard), **[MacPulse](https://mrsagarrb.github.io/AppStore/macpulse/)** (system monitor in the menu bar) and **[QuickNote](https://mrsagarrb.github.io/AppStore/quicknote/)** (instant floating notes). [Visit the AppStore website](https://mrsagarrb.github.io/AppStore/) | Swift, SwiftUI |
 | **[SpeedMaxx](https://github.com/MrSagarRB/speedmaxx)** | Website and demo client portal for an internet provider, with a plan finder, coverage map and a usage dashboard. [Live](https://mrsagarrb.github.io/speedmaxx/) | HTML, CSS, JavaScript, GSAP, Chart.js |
 | **[OceanLabs](https://github.com/MrSagarRB/OceanLabs)** | Landing page for a tech and IT services company with 10 switchable themes. [Live](https://mrsagarrb.github.io/OceanLabs/) | JavaScript, CSS |
-| **Menu bar utilities** | Three tiny single-file Mac apps: **[ClipHistory](https://github.com/MrSagarRB/ClipHistory)** (clipboard history on ⇧⌘V), **[SysMeter](https://github.com/MrSagarRB/SysMeter)** (live CPU and RAM bars) and **[SpeedTemp](https://github.com/MrSagarRB/SpeedTemp)** (network speed and CPU temperature). | Swift |
 
 ### Websites I've built
 
