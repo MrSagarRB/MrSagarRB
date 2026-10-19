@@ -37,7 +37,6 @@
 | **[AppStore](https://github.com/MrSagarRB/AppStore)** | Lightweight native macOS apps: **ClipMind** (smart clipboard), **MacPulse** (system monitor in the menu bar) and **QuickNote** (instant floating notes). [Website](https://mrsagarrb.github.io/AppStore/) | Swift, SwiftUI |
 | **[SpeedMaxx](https://github.com/MrSagarRB/speedmaxx)** | Website and demo client portal for an internet provider, with a plan finder, coverage map and a usage dashboard. [Live](https://mrsagarrb.github.io/speedmaxx/) | HTML, CSS, JavaScript, GSAP, Chart.js |
 | **[OceanLabs](https://github.com/MrSagarRB/OceanLabs)** | Landing page for a tech and IT services company with 10 switchable themes. [Live](https://mrsagarrb.github.io/OceanLabs/) | JavaScript, CSS |
-| **[FlowMeter](https://github.com/MrSagarRB/FlowMeter)** | An always-on-top desktop widget that shows network performance in real time on Windows, macOS and Linux. | Electron, JavaScript |
 | **Menu bar utilities** | Three tiny single-file Mac apps: **[ClipHistory](https://github.com/MrSagarRB/ClipHistory)** (clipboard history on ⇧⌘V), **[SysMeter](https://github.com/MrSagarRB/SysMeter)** (live CPU and RAM bars) and **[SpeedTemp](https://github.com/MrSagarRB/SpeedTemp)** (network speed and CPU temperature). | Swift |
 
 ### Websites I've built
