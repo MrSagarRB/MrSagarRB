@@ -1,178 +1,69 @@
-<h1 align="center">HI I'm <a href="https://mrsagarrb.github.io/online/"> Sagar</a>   </h1>    
-<a href="https://mrsagarrb.github.io/online/"> Sagar</a> 
+<h1 align="center">Hi, I'm Sagar 👋</h1>
 
-
-<!--   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">  -->
-
-<img src="https://user-images.githubusercontent.com/87903581/151706267-33d2ddcf-9ead-4aa0-844d-b7b3ae49eaad.gif">)
-
-  
-  <h4>
--   👋 Hi, I’m Sagar <br>
-- 👀 I’m interested in Web Development<br>
-- 🌱 I’m currently learning React Js (Java Scripts)<br>
-- 💞️ I’m looking for working real world project using React Js <br>
-- 📫 Contact No 8805189617 Email: sagar.html5@gmail.com <h4>
-
-
-  <h1>  <a href="https://drive.google.com/file/d/1k1btapie9yZE5NfkkCWAloxpETuVZCeO/view?usp=sharing"> Download My CV </a> </h1>
-
-
-
-
-
-
-<hr>
-
-### Languages and Tools:
-<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" />
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
-<img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
+<p align="center">
+  Full-stack developer from Mumbai.<br>
+  I build web apps, Android apps and small native macOS tools.
 </p>
 
+<p align="center">
+  <a href="https://mrsagarrb.github.io/online/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0E2A1F?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:sagar.html5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1k1btapie9yZE5NfkkCWAloxpETuVZCeO/view?usp=sharing"><img alt="Download my CV" src="https://img.shields.io/badge/Download%20CV-1B9E5A?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+</p>
 
+---
 
-<hr>
+## What I'm up to
 
+- 🚶 Just shipped **[StepMates](https://github.com/MrSagarRB/StepMates)**, an Android app that ranks your friends' and family's steps live. [Try it](https://stepmates.vercel.app).
+- 🍎 Publishing small, private, native Mac apps in **[AppStore](https://github.com/MrSagarRB/AppStore)**.
+- ⚙️ Day to day: Next.js, React, Vue and Nuxt on the front, Node.js and Supabase behind them.
+- 📫 Open to interesting projects. Write to me at **sagar.html5@gmail.com**.
 
+## Tech stack
 
+| | |
+|---|---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+| **Backend and data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Mobile and desktop** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
+## Featured projects
 
-**My Projects - 
-<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/>
+| Project | What it is | Built with |
+|---|---|---|
+| **[StepMates](https://github.com/MrSagarRB/StepMates)** | A live step leaderboard for friends and family. Private teams, realtime ranking, and an Android TV view for the living room. [Website](https://stepmates.vercel.app) / [Download APK](https://github.com/MrSagarRB/StepMates/releases/latest) | Java, Android, Supabase (Postgres, Auth, Realtime) |
+| **[AppStore](https://github.com/MrSagarRB/AppStore)** | Lightweight native macOS apps: **ClipMind** (smart clipboard), **MacPulse** (system monitor in the menu bar) and **QuickNote** (instant floating notes). [Website](https://mrsagarrb.github.io/AppStore/) | Swift, SwiftUI |
+| **[SpeedMaxx](https://github.com/MrSagarRB/speedmaxx)** | Website and demo client portal for an internet provider, with a plan finder, coverage map and a usage dashboard. [Live](https://mrsagarrb.github.io/speedmaxx/) | HTML, CSS, JavaScript, GSAP, Chart.js |
+| **[OceanLabs](https://github.com/MrSagarRB/OceanLabs)** | Landing page for a tech and IT services company with 10 switchable themes. [Live](https://mrsagarrb.github.io/OceanLabs/) | JavaScript, CSS |
+| **[FlowMeter](https://github.com/MrSagarRB/FlowMeter)** | An always-on-top desktop widget that shows network performance in real time on Windows, macOS and Linux. | Electron, JavaScript |
+| **Menu bar utilities** | Three tiny single-file Mac apps: **[ClipHistory](https://github.com/MrSagarRB/ClipHistory)** (clipboard history on ⇧⌘V), **[SysMeter](https://github.com/MrSagarRB/SysMeter)** (live CPU and RAM bars) and **[SpeedTemp](https://github.com/MrSagarRB/SpeedTemp)** (network speed and CPU temperature). | Swift |
 
-  
-    * React Projects: 
-    
-<ul>
-  <li><a href="https://job-portal-front-end.vercel.app/"> Job Portal (MERN Stack)</a> </li>
-   <li> <a href="https://zomato-by-sagar.vercel.app/"> Zomato (React) </a> </li>
-   <li> <a  href="https://team-chat-app.vercel.app/"> Team Chat App (MERN Stack) </a> </li>
-  <li><a href="https://sales-dashboard-rho.vercel.app"> Sales Dashboard (React Front-end)</a> </li>
-<li><a href="https://pharma-one.vercel.app/">  Pharma One (React)</a>  </li>
- 
+### Websites I've built
 
-  <li><a href="https://mrsagarrb.github.io/Agency-Website-/">  Agency WebSite (React Front-end) </a></li>
- <li> <a href="https://react-flipkart-clone.vercel.app/">  Flipkrt Clone Using React Js </a>  </li>
-   <li> <a href="http://react-crypto-dashboard-sigma.vercel.app/"> Coin Api (Crypto) React Js </a>  </li>
-  <li> <a href="https://react-cryptfest.vercel.app/">  CryptoFest Dashboard </a>  </li> 
-   <li> <a href="https://s-drive.vercel.app/"> S-Drive. ( Similar To google drive </a> </li> 
-  
-  
-  
-  
-  
+- **[Classic Capture Photography](https://classic-capture-photography.vercel.app)**: an animated photography website with an admin CMS and appointment booking (TypeScript).
+- **[Yatra](https://yatra-ten-dusky.vercel.app)**: a Marathi-language website with a CMS (Nuxt 3, Supabase).
 
+<details>
+<summary><b>Earlier work</b> (React, Next.js and MERN demos)</summary>
 
+<br>
 
+- [Job Portal](https://job-portal-front-end.vercel.app/) (MERN stack)
+- [Team Chat App](https://team-chat-app.vercel.app/) (MERN stack)
+- [Sales Dashboard](https://sales-dashboard-rho.vercel.app) (React)
+- [Pharma One](https://pharma-one.vercel.app/) (React)
+- [Flipkart clone](https://react-flipkart-clone.vercel.app/) (React)
+- [Crypto dashboard](https://react-crypto-dashboard-sigma.vercel.app/) and [CryptoFest dashboard](https://react-cryptfest.vercel.app/) (React, coin API)
+- [S-Drive](https://s-drive.vercel.app/), a Google Drive style app (React)
+- [Next.js 13 with Redux Toolkit](https://nextjs-redux-xi.vercel.app) and a [Next.js portfolio](https://nextjs-portfolio-blush-rho.vercel.app)
+- [Agency website](https://mrsagarrb.github.io/Agency-Website-/), [Smart Kirana Bazar](https://mrsagarrb.github.io/Smart-kirana-Bazar/), [WhatsApp Sender](https://mrsagarrb.github.io/whatsapp-Sender/) and [Play Station page](https://mrsagarrb.github.io/Play-Station/) (HTML and CSS)
 
+</details>
 
+---
 
-
-<h3> *Basic Project Using Html Css </h3>
-
-<li>
- <a href="https://mrsagarrb.github.io/whatsapp-Sender/">  Whats App Sender-(Mobile version)</a>
-</li>
-<li>
- <a href="https://mrsagarrb.github.io/Smart-kirana-Bazar/">  Smart Kirana Bazar (Responsive)</a>
-</li>
-<li>
- <a href="https://mrsagarrb.github.io/Play-Station/">  Play Station (Only For Desktop)</a>
-</li>
-
-</ul>
-  
- 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-  
-  
-  
-  
-
-
-<img  src="https://github-readme-stats.vercel.app/api?username=MrSagarRB&show_icons=true&theme=react" width="50%" align="centre" >
-
-
-
-
-
-<div  align="center">
-<a >
-    <img src="https://komarev.com/ghpvc/?username=MrSagarRB">
-</a>
-</div>
-
-
-
-
-<!---
-MrSagarRB/MrSagarRB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-
-  <h1> Todays_Joke  </h1>
-  
-  
- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ![animation](https://user-images.githubusercontent.com/87903581/150827873-e86751dd-f21b-484a-8965-579ed9d9b29e.gif)
-  
- 
-  <h2>
-    last updated 01/01/2023
-</h2>
-  
-  
+<p align="center">
+  More on my <a href="https://github.com/MrSagarRB?tab=repositories">repositories page</a>.
+</p>
