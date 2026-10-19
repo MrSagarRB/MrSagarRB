@@ -43,22 +43,7 @@
 - **[Classic Capture Photography](https://classic-capture-photography.vercel.app)**: an animated photography website with an admin CMS and appointment booking (TypeScript).
 - **[Yatra](https://yatra-ten-dusky.vercel.app)**: a Marathi-language website with a CMS (Nuxt 3, Supabase).
 
-<details>
-<summary><b>Earlier work</b> (React, Next.js and MERN demos)</summary>
 
-<br>
-
-- [Job Portal](https://job-portal-front-end.vercel.app/) (MERN stack)
-- [Team Chat App](https://team-chat-app.vercel.app/) (MERN stack)
-- [Sales Dashboard](https://sales-dashboard-rho.vercel.app) (React)
-- [Pharma One](https://pharma-one.vercel.app/) (React)
-- [Flipkart clone](https://react-flipkart-clone.vercel.app/) (React)
-- [Crypto dashboard](https://react-crypto-dashboard-sigma.vercel.app/) and [CryptoFest dashboard](https://react-cryptfest.vercel.app/) (React, coin API)
-- [S-Drive](https://s-drive.vercel.app/), a Google Drive style app (React)
-- [Next.js 13 with Redux Toolkit](https://nextjs-redux-xi.vercel.app) and a [Next.js portfolio](https://nextjs-portfolio-blush-rho.vercel.app)
-- [Agency website](https://mrsagarrb.github.io/Agency-Website-/), [Smart Kirana Bazar](https://mrsagarrb.github.io/Smart-kirana-Bazar/), [WhatsApp Sender](https://mrsagarrb.github.io/whatsapp-Sender/) and [Play Station page](https://mrsagarrb.github.io/Play-Station/) (HTML and CSS)
-
-</details>
 
 ---
 
